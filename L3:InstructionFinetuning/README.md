@@ -2,7 +2,6 @@
 
 - Teach models to follow instructions
 - This turned GPT3 to ChatGPT
--
 
 ## DATASET
 
