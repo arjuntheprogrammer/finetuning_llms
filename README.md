@@ -18,6 +18,7 @@ Learn to finetune an LLM in minutes and specialize it to use your own data
 4. Data Preparation
 5. Training Process
 6. Evaluation and Iteration
+7. Considerations
 
 ---
 
