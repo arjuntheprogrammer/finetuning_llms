@@ -20,3 +20,9 @@
 ![alt text](image-2.png)
 
 ---
+
+## YT RECORDIN
+
+Data Preparation:[![Data Preparation](https://img.youtube.com/vi/Y3DvAH1DjFM/0.jpg)](https://youtu.be/Y3DvAH1DjFM)
+
+---

@@ -22,8 +22,17 @@ Learn to finetune an LLM in minutes and specialize it to use your own data
 
 ---
 
+## YT RECORDINGS
+
+1. Instruction Finetuning:[![Instruction Finetuning](https://img.youtube.com/vi/pmGTnZOWKH8/0.jpg)](https://youtu.be/pmGTnZOWKH8)
+2. Data Preparation:[![Data Preparation](https://img.youtube.com/vi/Y3DvAH1DjFM/0.jpg)](https://youtu.be/Y3DvAH1DjFM)
+3. Training:[![Training](https://img.youtube.com/vi/FYeSpI9mDWc/0.jpg)](https://youtu.be/FYeSpI9mDWc)
+4. Evaluation:[![Evaluation](https://img.youtube.com/vi/lpnLn4scdbQ/0.jpg)](https://youtu.be/lpnLn4scdbQ)
+
+---
+
 ## COURSE LINK
 
 <https://learn.deeplearning.ai/courses/finetuning-large-language-models/>
 
---
+---

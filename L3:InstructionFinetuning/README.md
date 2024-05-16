@@ -12,3 +12,9 @@
 ![alt text](image-2.png)
 
 ---
+
+## YT RECORDIN
+
+Instruction Finetuning:[![Instruction Finetuning](https://img.youtube.com/vi/pmGTnZOWKH8/0.jpg)](https://youtu.be/pmGTnZOWKH8)
+
+---
